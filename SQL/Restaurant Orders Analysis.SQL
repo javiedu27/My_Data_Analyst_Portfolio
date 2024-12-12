@@ -1,5 +1,3 @@
-## In this project I analized the Restaurant Orders datasets found in Maven Analytics, you can check the datasets i used [HERE](https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=restaurant%20orders)
-
 
 ## OBJECTIVE 1: EXPLORE THE MENU ITEMS TABLE ##
 
