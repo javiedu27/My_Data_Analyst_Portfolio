@@ -8,5 +8,5 @@ SKILLS
         - My main Data Analysis skills includes tools like Spreadsheets, SQL, R programming language and Tableau for visualizations.
 
 CONTACT
-        - Linkedin Profile: https://www.linkedin.com/in/javier-eduardo-orozco-rivas/
+        - [Linkedin](https://www.linkedin.com/in/javier-eduardo-orozco-rivas/)
         - Email: javierorozco1994@gmail.com
